@@ -1,0 +1,20 @@
+[
+{ 
+    "directions": "Go to a library",
+    "question": "What can be found here?",
+    "hint": "You can read them",
+    "answer": "Books"
+},
+{ 
+    "directions": "Go to the ocean",
+    "question": "What can be found here?",
+    "hint": "They swim",
+    "answer": "Fish" 
+},
+{  
+    "directions": "Go to a park ",
+    "question": "What can be found here?",
+    "hint": "They have leafs",
+    "answer": "Threes"
+}
+]
